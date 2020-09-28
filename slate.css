@@ -1,0 +1,63 @@
+.header img{
+
+	
+	padding-top: 8px;
+
+}
+.header{
+	padding-left: 10px;
+	margin-top: -12px;
+	margin-left: -9px;
+	background: blue;
+	min-width: 700px;
+	margin-right: -12px;
+
+}
+.header form{
+
+	float: right;
+	padding-top: 20px;
+	padding-right: 9px;
+}
+.body p1 button{
+
+	border-style: solid;
+	border-color: gray;
+	float: right;
+	border-radius: 3px;
+	margin: 4px;
+	margin-top: 0px;
+	padding-right: 8px;
+
+}
+.innerbody{
+	
+	border-style: solid;
+	border-color: silver;
+	margin-top:40px;
+	padding: 10px;
+	margin-left: 230px;
+	font-family: Alvatica, Arial;
+	font-size: 1.1em;
+	padding-bottom: 120px;
+	border-width: 0.2px;
+	
+
+}
+.innerbody p3{
+	color: blue;
+
+
+}
+.innerbody p4{
+	color: red;
+}
+.sidebar{
+	border-style: solid;
+	border-color: silver;
+	padding-right: 50px;
+	float: left;
+	margin-top: -40%;
+	padding-bottom: 23%;
+	border-width: 0.2px;
+}
